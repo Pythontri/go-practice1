@@ -1,0 +1,15 @@
+﻿# Binaries
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Go build / output
+/bin/
+/pkg/
+/vendor/
+
+# IDE / editor
+.vscode/
+.idea/
