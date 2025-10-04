@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/aaaaarsen/golang/go-practice2/internal/handlers"
-	"github.com/aaaaarsen/golang/go-practice2/internal/middleware"
+	"github.com/Pythontri/go-practice1/tree/main/go-practice2/internal/handlers"
+	"github.com/Pythontri/go-practice1/tree/main/go-practice2/internal/middleware"
 )
 
 func main() {
